@@ -1,0 +1,11 @@
+D:\mods\obj\Release\net48\OPHardware.csproj.AssemblyReference.cache
+D:\mods\obj\Release\net48\OPHardware.GeneratedMSBuildEditorConfig.editorconfig
+D:\mods\obj\Release\net48\OPHardware.AssemblyInfoInputs.cache
+D:\mods\obj\Release\net48\OPHardware.AssemblyInfo.cs
+D:\mods\obj\Release\net48\OPHardware.csproj.CoreCompileInputs.cache
+D:\mods\bin\Release\net48\OPHardware.dll
+D:\mods\bin\Release\net48\OPHardware.pdb
+D:\mods\bin\Release\net48\ServerAdminSimulator.ModSDK.dll
+D:\mods\obj\Release\net48\OPHardware.csproj.Up2Date
+D:\mods\obj\Release\net48\OPHardware.dll
+D:\mods\obj\Release\net48\OPHardware.pdb

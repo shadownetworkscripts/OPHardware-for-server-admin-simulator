@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>OPHardware</AssemblyName>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ServerAdminSimulator.ModSDK">
+      <!-- Point this at the SDK DLL you built/downloaded from the repo -->
+      <HintPath>D:\mods\ServerAdminSimulator.ModSDK.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

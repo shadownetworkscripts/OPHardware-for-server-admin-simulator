@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNjDv0Mz6E0=",
+  "success": true,
+  "projectFilePath": "D:\\mods\\OPHardware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ttvde\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\ttvde\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
